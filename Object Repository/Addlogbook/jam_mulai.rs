@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>jam_mulai</name>
+   <tag></tag>
+   <elementGuidId>fbe8bc3e-1873-4c89-a239-fe4b78344015</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div/div[3]/div/main/div/div/div/div[4]/div[1]/div/div/form/div/div[2]/div[2]/div[2]/div/div[2]/div[2]/div/div/div[2]/div[2]/div/ul/li[34]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

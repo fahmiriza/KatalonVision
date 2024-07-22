@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 06 - Delete Data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>058032bc-d477-46d1-bbf3-4a63ed786db3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>79aadd0e-047a-426a-b7cd-ea9d80073c5c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b8f3d736-571b-4d98-aa20-b9b9bf5b1d0d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4f15524c-38c1-4cda-a051-e50126384765</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f1e3e2c5-1bb5-43db-af68-a546d6f7fa12</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'TestAccountKaryawan1'</defaultValue>
+      <description></description>
+      <id>79aadd0e-047a-426a-b7cd-ea9d80073c5c</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'P@sswordK1'</defaultValue>
+      <description></description>
+      <id>b8f3d736-571b-4d98-aa20-b9b9bf5b1d0d</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'positif'</defaultValue>
+      <description></description>
+      <id>4f15524c-38c1-4cda-a051-e50126384765</id>
+      <masked>false</masked>
+      <name>type</name>
+   </variable>
+   <variable>
+      <defaultValue>'Project Kerja Nyata'</defaultValue>
+      <description></description>
+      <id>f1e3e2c5-1bb5-43db-af68-a546d6f7fa12</id>
+      <masked>false</masked>
+      <name>cari_data</name>
+   </variable>
+</TestCaseEntity>

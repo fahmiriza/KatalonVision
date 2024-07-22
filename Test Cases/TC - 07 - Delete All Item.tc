@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 07 - Delete All Item</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3b6766d1-9645-48cf-b727-c530c30dbb79</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>560ec9d6-6654-4437-80c4-03bd0d07cc2d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b4d98d69-10c0-45a6-b819-1e491cd040e3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'TestAccountKaryawan1'</defaultValue>
+      <description></description>
+      <id>560ec9d6-6654-4437-80c4-03bd0d07cc2d</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'P@sswordK1'</defaultValue>
+      <description></description>
+      <id>b4d98d69-10c0-45a6-b819-1e491cd040e3</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

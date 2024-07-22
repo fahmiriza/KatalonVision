@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 03 - AddLogbook Empty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aedfe017-141d-4c43-b026-8b498a6376a0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cd08b22c-bce2-49a4-a502-4146b0c6f959</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6ce716b5-ac2d-420e-af2f-b9c5ac10bda9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a4a154c5-c109-4878-ae2b-2f0280921017</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'TestAccountKaryawan1'</defaultValue>
+      <description></description>
+      <id>cd08b22c-bce2-49a4-a502-4146b0c6f959</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'P@sswordK1'</defaultValue>
+      <description></description>
+      <id>6ce716b5-ac2d-420e-af2f-b9c5ac10bda9</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'negatif'</defaultValue>
+      <description></description>
+      <id>a4a154c5-c109-4878-ae2b-2f0280921017</id>
+      <masked>false</masked>
+      <name>type</name>
+   </variable>
+</TestCaseEntity>

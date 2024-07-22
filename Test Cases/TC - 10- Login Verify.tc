@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 10- Login Verify</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d206edd5-6092-49dc-bf32-80d8996b3b85</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0dd98e17-fd70-4866-8403-667bc529e9be</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>eafa3488-51a5-4c9b-a4ce-dee584a7710e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8e3ff2fb-c220-4aca-a564-35bac028c268</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'TestAccountKaryawan1'</defaultValue>
+      <description></description>
+      <id>0dd98e17-fd70-4866-8403-667bc529e9be</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'P@sswordK1'</defaultValue>
+      <description></description>
+      <id>eafa3488-51a5-4c9b-a4ce-dee584a7710e</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>8e3ff2fb-c220-4aca-a564-35bac028c268</id>
+      <masked>false</masked>
+      <name>Klik_berhasil</name>
+   </variable>
+</TestCaseEntity>

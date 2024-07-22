@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>OK_berhasil</name>
+   <tag></tag>
+   <elementGuidId>6ba0f9fa-aff6-4f43-8a65-2eb1aedc7796</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[text()=&quot;OK&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

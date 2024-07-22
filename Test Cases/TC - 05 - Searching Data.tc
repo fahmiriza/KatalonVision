@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 05 - Searching Data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2439b8f4-3492-42f7-bc09-11cbca2cb95a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b146e829-30f2-4419-ba7f-167670fca2cb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0207399c-0ea7-49f5-8f28-b6c6738143cd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8f60d3f4-88c6-46f9-b2c8-29a751b5156c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>139e2113-4e70-40dd-b887-0c9ad55a6fe0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'TestAccountKaryawan1'</defaultValue>
+      <description></description>
+      <id>b146e829-30f2-4419-ba7f-167670fca2cb</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'P@sswordK1'</defaultValue>
+      <description></description>
+      <id>0207399c-0ea7-49f5-8f28-b6c6738143cd</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'positif'</defaultValue>
+      <description></description>
+      <id>8f60d3f4-88c6-46f9-b2c8-29a751b5156c</id>
+      <masked>false</masked>
+      <name>type</name>
+   </variable>
+   <variable>
+      <defaultValue>'Project Kerja Nyata'</defaultValue>
+      <description></description>
+      <id>139e2113-4e70-40dd-b887-0c9ad55a6fe0</id>
+      <masked>false</masked>
+      <name>cari_data</name>
+   </variable>
+</TestCaseEntity>

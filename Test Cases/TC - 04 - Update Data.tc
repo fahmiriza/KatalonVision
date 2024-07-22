@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 04 - Update Data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>445a70a6-940b-4ae5-8347-41aaf26f3a08</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e20f88b3-bafd-4230-a221-395618c467cc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8afbcaaa-7f28-45d2-b0cb-c4d339df118c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ce555c38-c506-4bd2-944c-586ccaf5c63d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'TestAccountKaryawan1'</defaultValue>
+      <description></description>
+      <id>e20f88b3-bafd-4230-a221-395618c467cc</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'P@sswordK1'</defaultValue>
+      <description></description>
+      <id>8afbcaaa-7f28-45d2-b0cb-c4d339df118c</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'positif'</defaultValue>
+      <description></description>
+      <id>ce555c38-c506-4bd2-944c-586ccaf5c63d</id>
+      <masked>false</masked>
+      <name>type</name>
+   </variable>
+</TestCaseEntity>
