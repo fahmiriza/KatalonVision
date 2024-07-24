@@ -32,7 +32,7 @@ if (username == 'TestAccountKaryawan11') {
 }else {
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Addlogbook/klik_addLogbook'))
-WebUI.comment('Berhasil Login')
+WebUI.comment('Berhasil Login terbaru')
  }
 
 
