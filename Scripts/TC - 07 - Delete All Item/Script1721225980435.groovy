@@ -35,7 +35,7 @@ if (username == 'TestAccountKaryawan1') {
 		WebUI.comment('Error username dan password SALAH !!!!')
 	}
 
-//HAPUS ALL
+//HAPUS ALL aja ya
 	WebUI.takeFullPageScreenshot()
 	
 	uncheck1 = WebUI.verifyElementNotChecked(findTestObject('Object Repository/Delete all/ceklist all'), 2)
