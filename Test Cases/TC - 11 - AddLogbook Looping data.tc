@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - 11 - AddLogbook Looping data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>03af5c96-bd77-4de3-8212-6a0679f3e1f5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1c8d7235-8d8f-4776-908d-d9f3073c8b80</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2183c094-31e0-402e-b54a-cd65ee841555</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4bd5465c-0c57-4121-a862-8a77f71689fe</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'TestAccountKaryawan1'</defaultValue>
+      <description></description>
+      <id>1c8d7235-8d8f-4776-908d-d9f3073c8b80</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'P@sswordK1'</defaultValue>
+      <description></description>
+      <id>2183c094-31e0-402e-b54a-cd65ee841555</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'positif'</defaultValue>
+      <description></description>
+      <id>4bd5465c-0c57-4121-a862-8a77f71689fe</id>
+      <masked>false</masked>
+      <name>type</name>
+   </variable>
+</TestCaseEntity>
